@@ -1,181 +1,177 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo=É½¶«¹«¹².png tvg-name=É½¶«¹«¹² group-title=É½¶«ÆµµÀ,É½¶«¹«¹²
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«ÆëÂ³.png tvg-name=É½¶«ÆëÂ³ group-title=É½¶«ÆµµÀ,É½¶«ÆëÂ³
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«Éú»î.png tvg-name=É½¶«Éú»î group-title=É½¶«ÆµµÀ,É½¶«Éú»î
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«×ÛÒÕ.png tvg-name=É½¶«×ÛÒÕ group-title=É½¶«ÆµµÀ,É½¶«×ÛÒÕ
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«Ó°ÊÓ.png tvg-name=É½¶«Ó°ÊÓ group-title=É½¶«ÆµµÀ,É½¶«Ó°ÊÓ
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«ÌåÓı.png tvg-name=É½¶«ÌåÓı group-title=É½¶«ÆµµÀ,É½¶«ÌåÓı
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«½ÌÓı.jpg tvg-name=É½¶«½ÌÓı group-title=É½¶«ÆµµÀ,É½¶«½ÌÓı
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«Å©¿Æ.png tvg-name=É½¶«Å©¿Æ group-title=É½¶«ÆµµÀ,É½¶«Å©¿Æ
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 tvg-logo=¼ÃÄÏĞÂÎÅ×ÛºÏ.png tvg-name=¼ÃÄÏĞÂÎÅ×ÛºÏ group-title=É½¶«ÆµµÀ,¼ÃÄÏĞÂÎÅ×ÛºÏ
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
-#EXTINF:-1 tvg-logo=Ì©°²×ÛºÏ.png tvg-name=Ì©°²×ÛºÏ group-title=É½¶«ÆµµÀ,Ì©°²×ÛºÏ
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
-#EXTINF:-1 tvg-logo=Ì©°²¹«¹².png tvg-name=Ì©°²¹«¹² group-title=É½¶«ÆµµÀ,Ì©°²¹«¹²
-http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=ÑëÊÓÆµµÀ,CCTV1
-http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV2.png tvg-name=CCTV2 group-title=ÑëÊÓÆµµÀ,CCTV2
-http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV3.png tvg-name=CCTV3 group-title=ÑëÊÓÆµµÀ,CCTV3
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=ÑëÊÓÆµµÀ,CCTV4
-http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=ÑëÊÓÆµµÀ,CCTV5
-http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=ÑëÊÓÆµµÀ,CCTV5+
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV6.png tvg-name=CCTV6 group-title=ÑëÊÓÆµµÀ,CCTV6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=ÑëÊÓÆµµÀ,CCTV7
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=ÑëÊÓÆµµÀ,CCTV8
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=ÑëÊÓÆµµÀ,CCTV9
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=ÑëÊÓÆµµÀ,CCTV10
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=ÑëÊÓÆµµÀ,CCTV11
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=ÑëÊÓÆµµÀ,CCTV12
-http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=ÑëÊÓÆµµÀ,CCTV13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=ÑëÊÓÆµµÀ,CCTV14
-http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=ÑëÊÓÆµµÀ,CCTV15
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-logo=CCTVNEWS.png tvg-name=CCTVNEWS group-title=ÑëÊÓÆµµÀ,CCTVNEWS
-http://39.137.76.32:8089/00/SNM/CHANNEL00000009/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV4K.png tvg-name=CCTV4K group-title=ÑëÊÓÆµµÀ,CCTV4K
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV17.png tvg-name=CCTV17 group-title=ÑëÊÓÆµµÀ,CCTV17
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1 tvg-logo=·ï»ËÖĞÎÄ.png tvg-name=·ï»ËÖĞÎÄ group-title=ÎÀÊÓÆµµÀ,·ï»ËÖĞÎÄ
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 tvg-logo=·ï»Ë×ÊÑ¶.png tvg-name=·ï»Ë×ÊÑ¶ group-title=ÎÀÊÓÆµµÀ,·ï»Ë×ÊÑ¶
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-logo=ºşÄÏÎÀÊÓ .png tvg-name=ºşÄÏÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,ºşÄÏÎÀÊÓ 
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
-#EXTINF:-1 tvg-logo=½­ËÕÎÀÊÓ .png tvg-name=½­ËÕÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,½­ËÕÎÀÊÓ 
-http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
-#EXTINF:-1 tvg-logo=Õã½­ÎÀÊÓ .png tvg-name=Õã½­ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,Õã½­ÎÀÊÓ 
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
-#EXTINF:-1 tvg-logo=¶«·½ÎÀÊÓ .png tvg-name=¶«·½ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,¶«·½ÎÀÊÓ 
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
-#EXTINF:-1 tvg-logo=±±¾©ÎÀÊÓ .png tvg-name=±±¾©ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,±±¾©ÎÀÊÓ 
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
-#EXTINF:-1 tvg-logo=¹ã¶«ÎÀÊÓ .png tvg-name=¹ã¶«ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,¹ã¶«ÎÀÊÓ 
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
-#EXTINF:-1 tvg-logo=ÉîÛÚÎÀÊÓ .png tvg-name=ÉîÛÚÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,ÉîÛÚÎÀÊÓ 
-http://39.137.76.32:8089/00/SNM/CHANNEL00000308/index.m3u8
-#EXTINF:-1 tvg-logo=Ìì½òÎÀÊÓ .png tvg-name=Ìì½òÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,Ìì½òÎÀÊÓ 
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
-#EXTINF:-1 tvg-logo=°²»ÕÎÀÊÓ .png tvg-name=°²»ÕÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,°²»ÕÎÀÊÓ 
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
-#EXTINF:-1 tvg-logo=É½¶«ÎÀÊÓ .png tvg-name=É½¶«ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,É½¶«ÎÀÊÓ 
+#EXTM3U
+#EXTINF:-1 tvg-id="38" tvg-name="å±±ä¸œå«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="å«åœ°æ–¹",å±±ä¸œå«è§† 
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
-#EXTINF:-1 tvg-logo=ºş±±ÎÀÊÓ .png tvg-name=ºş±±ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,ºş±±ÎÀÊÓ 
+#EXTINF:-1 tvg-id="1430" tvg-name="å±±ä¸œå…¬å…±" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" group-title="åœ°æ–¹",å±±ä¸œå…¬å…±
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="å±±ä¸œé½é²" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="åœ°æ–¹",å±±ä¸œé½é²
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-id="1434" tvg-name="å±±ä¸œç”Ÿæ´»" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="åœ°æ–¹",å±±ä¸œç”Ÿæ´»
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-id="1433" tvg-name="å±±ä¸œç»¼è‰º" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="åœ°æ–¹",å±±ä¸œç»¼è‰º
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-id="1432" tvg-name="å±±ä¸œå½±è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" group-title="åœ°æ–¹",å±±ä¸œå½±è§†
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="å±±ä¸œä½“è‚²" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="åœ°æ–¹",å±±ä¸œä½“è‚²
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="åœ°æ–¹",å±±ä¸œæ•™è‚²
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-id="1429" tvg-name="å±±ä¸œå†œç§‘" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="åœ°æ–¹",å±±ä¸œå†œç§‘
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="åœ°æ–¹",æµå—æ–°é—»ç»¼åˆ
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="åœ°æ–¹",æ³°å®‰ç»¼åˆ
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="åœ°æ–¹",æ³°å®‰å…¬å…±
+http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="å¤®è§†",CCTV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="å¤®è§†",CCTV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="å¤®è§†",CCTV3
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="å¤®è§†",CCTV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="å¤®è§†",CCTV5
+http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="å¤®è§†",CCTV5+
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="å¤®è§†",CCTV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="å¤®è§†",CCTV7
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="å¤®è§†",CCTV8
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="å¤®è§†",CCTV9
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="å¤®è§†",CCTV10
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="å¤®è§†",CCTV11
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="å¤®è§†",CCTV12
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="å¤®è§†",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="å¤®è§†",CCTV14
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="å¤®è§†",CCTV15
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-id="6159" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="æ¸¯æ¾³å°",CCTVNEWS
+http://39.137.76.32:8089/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="å¤®è§†",CCTV4K
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="å¤®è§†",CCTV17
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="å‡¤å‡°ä¸­æ–‡" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="æ¸¯æ¾³å°",å‡¤å‡°ä¸­æ–‡
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="å‡¤å‡°èµ„è®¯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="æ¸¯æ¾³å°",å‡¤å‡°èµ„è®¯
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="æ¹–å—å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="å«è§†",æ¹–å—å«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="æ±Ÿè‹å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="å«è§†",æ±Ÿè‹å«è§† 
+http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="æµ™æ±Ÿå«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="å«è§†",æµ™æ±Ÿå«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="ä¸œæ–¹å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="å«è§†",ä¸œæ–¹å«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="åŒ—äº¬å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="å«è§†",åŒ—äº¬å«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="å¹¿ä¸œå«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="å«è§†",å¹¿ä¸œå«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="æ·±åœ³å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="å«è§†",æ·±åœ³å«è§† 
+http://39.137.76.32:8089/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="å¤©æ´¥å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="å«è§†",å¤©æ´¥å«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="å®‰å¾½å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="å«è§†",å®‰å¾½å«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="å±±ä¸œå«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="å«è§†",å±±ä¸œå«è§† 
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="æ¹–åŒ—å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="å«è§†",æ¹–åŒ—å«è§† 
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
-#EXTINF:-1 tvg-logo=ÁÉÄşÎÀÊÓ .png tvg-name=ÁÉÄşÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,ÁÉÄşÎÀÊÓ 
+#EXTINF:-1 tvg-id="36" tvg-name="è¾½å®å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="å«è§†",è¾½å®å«è§† 
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
-#EXTINF:-1 tvg-logo=ÖØÇìÎÀÊÓ .png tvg-name=ÖØÇìÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,ÖØÇìÎÀÊÓ 
+#EXTINF:-1 tvg-id="40" tvg-name="é‡åº†å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="å«è§†",é‡åº†å«è§† 
 http://39.137.76.32:8089/00/SNM/CHANNEL00000023/index.m3u8
-#EXTINF:-1 tvg-logo=½­Î÷ÎÀÊÓ .png tvg-name=½­Î÷ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,½­Î÷ÎÀÊÓ 
+#EXTINF:-1 tvg-id="50" tvg-name="æ±Ÿè¥¿å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="å«è§†",æ±Ÿè¥¿å«è§† 
 http://112.17.40.140/PLTV/88888888/224/3221226557/index.m3u8
-#EXTINF:-1 tvg-logo=ºÓ±±ÎÀÊÓ .png tvg-name=ºÓ±±ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,ºÓ±±ÎÀÊÓ 
+#EXTINF:-1 tvg-id="45" tvg-name="æ²³åŒ—å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="å«è§†",æ²³åŒ—å«è§† 
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
-#EXTINF:-1 tvg-logo=ºÚÁú½­ÎÀÊÓ .png tvg-name=ºÚÁú½­ÎÀÊÓ  group-title=ÎÀÊÓÆµµÀ,ºÚÁú½­ÎÀÊÓ 
+#EXTINF:-1 tvg-id="46" tvg-name="é»‘é¾™æ±Ÿå«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="å«è§†",é»‘é¾™æ±Ÿå«è§† 
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
-#EXTINF:-1 tvg-logo=¶«ÄÏÎÀÊÓ.png tvg-name=¶«ÄÏÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,¶«ÄÏÎÀÊÓ
+#EXTINF:-1 tvg-id="41" tvg-name="ä¸œå—å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="å«è§†",ä¸œå—å«è§†
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
-#EXTINF:-1 tvg-logo=ËÄ´¨ÎÀÊÓ.png tvg-name=ËÄ´¨ÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,ËÄ´¨ÎÀÊÓ
+#EXTINF:-1 tvg-id="56" tvg-name="å››å·å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="å«è§†",å››å·å«è§†
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
-#EXTINF:-1 tvg-logo=¹ãÎ÷ÎÀÊÓ.png tvg-name=¹ãÎ÷ÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,¹ãÎ÷ÎÀÊÓ
-http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
-#EXTINF:-1 tvg-logo=ºÓÄÏÎÀÊÓ.png tvg-name=ºÓÄÏÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,ºÓÄÏÎÀÊÓ
+#EXTINF:-1 tvg-id="43" tvg-name="å¹¿è¥¿å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="å«è§†",å¹¿è¥¿å«è§†
+http://39.137.76.32:8089/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="æ²³å—å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="å«è§†",æ²³å—å«è§†
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-#EXTINF:-1 tvg-logo=¼ªÁÖÎÀÊÓ.png tvg-name=¼ªÁÖÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,¼ªÁÖÎÀÊÓ
+#EXTINF:-1 tvg-id="51" tvg-name="å‰æ—å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="å«è§†",å‰æ—å«è§†
 http://39.137.76.32:8089/00/SNM/CHANNEL00000036/index.m3u8
-#EXTINF:-1 tvg-logo=É½Î÷ÎÀÊÓ.png tvg-name=É½Î÷ÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,É½Î÷ÎÀÊÓ
+#EXTINF:-1 tvg-id="54" tvg-name="å±±è¥¿å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="å«è§†",å±±è¥¿å«è§†
 http://39.137.76.32:8089/00/SNM/CHANNEL00000032/index.m3u8
-#EXTINF:-1 tvg-logo=¹óÖİÎÀÊÓ.png tvg-name=¹óÖİÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,¹óÖİÎÀÊÓ
+#EXTINF:-1 tvg-id="44" tvg-name="è´µå·å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="å«è§†",è´µå·å«è§†
 http://39.137.76.32:8089/00/SNM/CHANNEL00000041/index.m3u8
-#EXTINF:-1 tvg-logo=Çàº£ÎÀÊÓ.png tvg-name=Çàº£ÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,Çàº£ÎÀÊÓ
+#EXTINF:-1 tvg-id="59" tvg-name="é’æµ·å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="å«è§†",é’æµ·å«è§†
 http://39.137.76.32:8089/00/SNM/CHANNEL00000042/index.m3u8
-#EXTINF:-1 tvg-logo=ÔÆÄÏÎÀÊÓ.png tvg-name=ÔÆÄÏÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,ÔÆÄÏÎÀÊÓ
+#EXTINF:-1 tvg-id="58" tvg-name="äº‘å—å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="å«è§†",äº‘å—å«è§†
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
-#EXTINF:-1 tvg-logo=ÄşÏÄÎÀÊÓ.png tvg-name=ÄşÏÄÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,ÄşÏÄÎÀÊÓ
+#EXTINF:-1 tvg-id="53" tvg-name="å®å¤å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="å«è§†",å®å¤å«è§†
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
-#EXTINF:-1 tvg-logo=ĞÂ½®ÎÀÊÓ.png tvg-name=ĞÂ½®ÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,ĞÂ½®ÎÀÊÓ
+#EXTINF:-1 tvg-id="57" tvg-name="æ–°ç–†å«è§†" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="å«è§†",æ–°ç–†å«è§†
 http://39.137.76.32:8089/00/SNM/CHANNEL00000044/index.m3u8
-#EXTINF:-1 tvg-logo=º£ÄÏÎÀÊÓ.png tvg-name=º£ÄÏÎÀÊÓ group-title=ÎÀÊÓÆµµÀ,º£ÄÏÎÀÊÓ
-http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
-#EXTINF:-1 tvg-logo=ÖĞ¹ú½ÌÓı1Ì¨.png tvg-name=ÖĞ¹ú½ÌÓı1Ì¨ group-title=ÎÀÊÓÆµµÀ,ÖĞ¹ú½ÌÓı1Ì¨
+#EXTINF:-1 tvg-id="73" tvg-name="ä¸­å›½æ•™è‚²1å°" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/ä¸­å›½æ•™è‚²1å°.png" group-title="åœ°æ–¹",ä¸­å›½æ•™è‚²1å°
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
-#EXTINF:-1 tvg-logo=NewTV°®ÇéÏ²¾ç.png tvg-name=NewTV°®ÇéÏ²¾ç group-title=µçÓ°ÆµµÀ,NewTV°®ÇéÏ²¾ç
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVçˆ±æƒ…å–œå‰§
 http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 tvg-logo=NewTV²«»÷.png tvg-name=NewTV²«»÷ group-title=ÌåÓıµç¾º,NewTV²«»÷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVæå‡»
 http://39.134.65.65:80/wh7f454c46tw1933118763_-691332913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=125
-#EXTINF:-1 tvg-logo=NewTV³±ÂèÀ±ÆÅ.png tvg-name=NewTV³±ÂèÀ±ÆÅ group-title=×ÛÒÕ²Æ¾­,NewTV³±ÂèÀ±ÆÅ
-http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
-#EXTINF:-1 tvg-logo=NewTV¼ÒÍ¥¾ç³¡.png tvg-name=NewTV¼ÒÍ¥¾ç³¡ group-title=µçÓ°ÆµµÀ,NewTV¼ÒÍ¥¾ç³¡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVæ½®å¦ˆè¾£å©†
+http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVå®¶åº­å‰§åœº
 http://39.134.65.6:80/wh7f454c46tw1932829804_1276949297/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1 tvg-logo=NewTV½¡¿µÓĞÔ¼.png tvg-name=NewTV½¡¿µÓĞÔ¼ group-title=×ÛÒÕ²Æ¾­,NewTV½¡¿µÓĞÔ¼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVå¥åº·æœ‰çº¦
 http://39.134.65.66:80/wh7f454c46tw1933128675_-106547739/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=126
-#EXTINF:-1 tvg-logo=NewTV½ğÅÆ×ÛÒÕ.png tvg-name=NewTV½ğÅÆ×ÛÒÕ group-title=×ÛÒÕ²Æ¾­,NewTV½ğÅÆ×ÛÒÕ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVé‡‘ç‰Œç»¼è‰º
 http://39.134.65.71:80/wh7f454c46tw1932631685_2130682535/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=135
-#EXTINF:-1 tvg-logo=NewTV¾ªã¤ĞüÒÉ.png tvg-name=NewTV¾ªã¤ĞüÒÉ group-title=µçÓ°ÆµµÀ,NewTV¾ªã¤ĞüÒÉ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVæƒŠæ‚šæ‚¬ç–‘
 http://39.134.65.6:80/wh7f454c46tw1933006885_-663399866/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1 tvg-logo=NewTV¾«Æ·¼ÍÂ¼.png tvg-name=NewTV¾«Æ·¼ÍÂ¼ group-title=×ÛÒÕ²Æ¾­,NewTV¾«Æ·¼ÍÂ¼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVç²¾å“çºªå½•
 http://39.134.65.88:80/wh7f454c46tw1932618676_-704003954/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=134
-#EXTINF:-1 tvg-logo=NewTV¾«Æ·ÌåÓı.png tvg-name=NewTV¾«Æ·ÌåÓı group-title=ÌåÓıµç¾º,NewTV¾«Æ·ÌåÓı
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVç²¾å“ä½“è‚²
 http://39.134.65.6:80/wh7f454c46tw1933117244_-1636594045/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1 tvg-logo=NewTV¾üÊÂÆÀÂÛ.png tvg-name=NewTV¾üÊÂÆÀÂÛ group-title=×ÛÒÕ²Æ¾­,NewTV¾üÊÂÆÀÂÛ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVå†›äº‹è¯„è®º
 http://39.134.65.2:80/wh7f454c46tw1933112330_-1077647376/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=11
-#EXTINF:-1 tvg-logo=NewTVÃ÷ĞÇ´óÆ¬.png tvg-name=NewTVÃ÷ĞÇ´óÆ¬ group-title=µçÓ°ÆµµÀ,NewTVÃ÷ĞÇ´óÆ¬
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVæ˜æ˜Ÿå¤§ç‰‡
 http://39.134.65.6:80/wh7f454c46tw1932626875_2136730600/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
-#EXTINF:-1 tvg-logo=NewTV¹Å×°¾ç³¡.png tvg-name=NewTV¹Å×°¾ç³¡ group-title=µçÊÓ¾çÆµµÀ,NewTV¹Å×°¾ç³¡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVå¤è£…å‰§åœº
 http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
-#EXTINF:-1 tvg-logo=NewTV¾«Æ·´ó¾ç.png tvg-name=NewTV¾«Æ·´ó¾ç group-title=µçÊÓ¾çÆµµÀ,NewTV¾«Æ·´ó¾ç
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVç²¾å“å¤§å‰§
 http://39.134.65.72:80/wh7f454c46tw1933009495_-1510557471/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=132
-#EXTINF:-1 tvg-logo=NewTV¾üÂÃ¾ç³¡.png tvg-name=NewTV¾üÂÃ¾ç³¡ group-title=µçÊÓ¾çÆµµÀ,NewTV¾üÂÃ¾ç³¡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVå†›æ—…å‰§åœº
 http://39.134.65.80:80/wh7f454c46tw1933127363_696277505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=124
-#EXTINF:-1 tvg-logo=NewTV¶«±±ÈÈ¾ç.png tvg-name=NewTV¶«±±ÈÈ¾ç group-title=µçÓ°ÆµµÀ,NewTV¶«±±ÈÈ¾ç
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVä¸œåŒ—çƒ­å‰§
 http://39.135.135.12:80/wh7f454c46tw1933119583_617512298/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=694
-#EXTINF:-1 tvg-logo=NewTVÖĞ¹ú¹¦·ò.png tvg-name=NewTVÖĞ¹ú¹¦·ò group-title=µçÓ°ÆµµÀ,NewTVÖĞ¹ú¹¦·ò
-http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130
-#EXTINF:-1 tvg-logo=NewTV¶¯»­Íõ¹ú.png tvg-name=NewTV¶¯»­Íõ¹ú group-title=µçÓ°ÆµµÀ,NewTV¶¯»­Íõ¹ú
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVä¸­å›½åŠŸå¤«
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVåŠ¨ç”»ç‹å›½
 http://39.134.65.8:80/wh7f454c46tw1932618304_-1568321494/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=14
-#EXTINF:-1 tvg-logo=NewTV»¶ÀÖ¾ç³¡.png tvg-name=NewTV»¶ÀÖ¾ç³¡ group-title=µçÓ°ÆµµÀ,NewTV»¶ÀÖ¾ç³¡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVæ¬¢ä¹å‰§åœº
 http://39.135.135.12:80/wh7f454c46tw1933121124_-1494028612/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=694
-#EXTINF:-1 tvg-logo=NewTVº£Íâ¾ç³¡.png tvg-name=NewTVº£Íâ¾ç³¡ group-title=µçÓ°ÆµµÀ,NewTVº£Íâ¾ç³¡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVæµ·å¤–å‰§åœº
 http://39.134.65.76:80/wh7f454c46tw1932636598_-2118705405/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=131
-#EXTINF:-1 tvg-logo=NewTV¾«Æ·µçÓ°.png tvg-name=NewTV¾«Æ·µçÓ° group-title=µçÓ°ÆµµÀ,NewTV¾«Æ·µçÓ°
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVç²¾å“ç”µå½±
 http://39.134.65.4:80/wh7f454c46tw1933116474_-1213071912/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=4
-#EXTINF:-1 tvg-logo=NewTV½ğÅÆ×ÛÒÕ.png tvg-name=NewTV½ğÅÆ×ÛÒÕ group-title=µçÓ°ÆµµÀ,NewTV½ğÅÆ×ÛÒÕ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTVé‡‘ç‰Œç»¼è‰º
 http://39.134.65.71:80/wh7f454c46tw1932631685_2130682535/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=135
-#EXTINF:-1 tvg-logo=¿¨¿áÉÙ¶ù.png tvg-name=¿¨¿áÉÙ¶ù group-title=¶¯»­ÆµµÀ,¿¨¿áÉÙ¶ù
+#EXTINF:-1 tvg-id="67" tvg-name="å¡é…·åŠ¨ç”»" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="åŒ—äº¬",å¡é…·å°‘å„¿
 http://39.137.76.32:8089/00/SNM/CHANNEL00000048/index.m3u8
-#EXTINF:-1 tvg-logo=½ğÓ¥¿¨Í¨.png tvg-name=½ğÓ¥¿¨Í¨ group-title=¶¯»­ÆµµÀ,½ğÓ¥¿¨Í¨
+#EXTINF:-1 tvg-id="69" tvg-name="é‡‘é¹°å¡é€š" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="å«è§†",é‡‘é¹°å¡é€š
 http://39.137.76.32:8089/00/SNM/CHANNEL00000047/index.m3u8
-#EXTINF:-1 tvg-logo=¹ş¹şìÅ¶¯.png tvg-name=¹ş¹şìÅ¶¯ group-title=¶¯»­ÆµµÀ,¹ş¹şìÅ¶¯
+#EXTINF:-1 tvg-id="62" tvg-name="å“ˆå“ˆç‚«åŠ¨" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="å«è§†",å“ˆå“ˆç‚«åŠ¨
 http://39.137.76.32:8089/00/SNM/CHANNEL00000050/index.m3u8
-#EXTINF:-1 tvg-logo=¶¯ÂşĞã³¡.png tvg-name=¶¯ÂşĞã³¡ group-title=¶¯»­ÆµµÀ,¶¯ÂşĞã³¡
-http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-#EXTINF:-1 tvg-logo=ºÚİ®µç¾º.png tvg-name=ºÚİ®µç¾º group-title=ÌåÓıµç¾º,ºÚİ®µç¾º
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="å«è§†",é»‘è“ç”µç«
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
-#EXTINF:-1 tvg-logo=ÓÎÏ··çÔÆ.png tvg-name=ÓÎÏ··çÔÆ group-title=ÌåÓıµç¾º,ÓÎÏ··çÔÆ
+#EXTINF:-1 tvg-id="1983" tvg-name="æ¸¸æˆé£äº‘" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="å«è§†",æ¸¸æˆé£äº‘
 http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
-#EXTINF:-1 tvg-logo=¼«ËÙÆû³µ.png tvg-name=¼«ËÙÆû³µ group-title=ÌåÓıµç¾º,¼«ËÙÆû³µ
-http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
-#EXTINF:-1 tvg-logo=ÎåĞÇÌåÓı.png tvg-name=ÎåĞÇÌåÓı group-title=ÌåÓıµç¾º,ÎåĞÇÌåÓı
+#EXTINF:-1 tvg-id="1987" tvg-name="äº”æ˜Ÿä½“è‚²é¢‘é“" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="å«è§†",äº”æ˜Ÿä½“è‚²
 http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
